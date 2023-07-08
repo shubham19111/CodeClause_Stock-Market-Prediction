@@ -28,9 +28,9 @@ Volume - volume of transaction
 
 * **Data Split**: Split the dataset into training and testing sets. The training set will be used to train the predictive model, while the testing set will be used for evaluating its performance.
 
-* **Model Training**: Train a tuned logistic regression model using the training data. Fine-tune the model parameters to optimize its performance. This can be done through techniques like grid search.
+* **Model Training**: Train a logistic regression model using the training data. Fine-tune the model parameters to optimize its performance. This can be done through techniques like grid search.
 
-* **Model Evaluation**: Evaluate the performance of the tuned logistic regression model using various metrics such as precision, recall, accuracy, ROC-AUC score, and F1 macro score. These metrics provide insights into the model's predictive capabilities and its ability to classify whether the stock value will increase or decrease.
+* **Model Evaluation**: Evaluate the performance of the logistic regression model using various metrics such as precision, recall, accuracy, ROC-AUC score, and F1 macro score. These metrics provide insights into the model's predictive capabilities and its ability to classify whether the stock value will increase or decrease.
 
 * **Conclusion**: Summarize the findings of the project. Highlight the superior performance of the tuned logistic regression model compared to the regular logistic regression model. Emphasize the improvements in precision, recall, accuracy, ROC-AUC score, and F1 macro score achieved by the tuned model. Discuss the importance of considering historical data, market trends, and relevant factors in accurately predicting stock market movements.
 
