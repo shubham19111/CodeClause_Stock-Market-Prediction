@@ -1,4 +1,5 @@
 # Stock-Market-Prediction
+![images](https://github.com/shubham19nijwala/Nifty-Bank-Stock-Market-Prediction/assets/130289158/5597c409-7000-47bf-8ada-ebe482d7bcc6)
 
 ## About Dataset
 ### Context
@@ -19,16 +20,19 @@ Close - closing value of the index on that day
 Volume - volume of transaction
 
 ## Steps Involved:
-*  #Data Preparation: Import the necessary libraries and load the Nifty Bank Stock Market dataset from 2018 to 2021. Perform data cleaning to handle missing values and ensure data consistency.
+*  **Data Preparation**: Import the necessary libraries and load the Nifty Bank Stock Market dataset from 2018 to 2021. Perform data cleaning to handle missing values and ensure data consistency.
 
-Exploratory Data Analysis (EDA): Conduct exploratory analysis to understand the distribution, trends, and statistical characteristics of the dataset. Visualize the data through plots and charts to gain insights into the behavior of the Nifty Bank index.
+* **Exploratory Data Analysis (EDA)**: Conduct exploratory analysis to understand the distribution, trends, and statistical characteristics of the dataset. Visualize the data through plots and charts to gain insights into the behavior of the Nifty Bank index.
 
-Feature Engineering: Engineer additional features based on the existing columns to enhance the predictive power of the model. This may involve creating lagged variables to capture time-dependent patterns and calculating technical indicators to capture market trends.
+* **Feature Engineering**: Engineer additional features based on the existing columns to enhance the predictive power of the model. This may involve creating lagged variables to capture time-dependent patterns and calculating technical indicators to capture market trends.
 
-Data Split: Split the dataset into training and testing sets. The training set will be used to train the predictive model, while the testing set will be used for evaluating its performance.
+* **Data Split**: Split the dataset into training and testing sets. The training set will be used to train the predictive model, while the testing set will be used for evaluating its performance.
 
-Model Training: Train a tuned logistic regression model using the training data. Fine-tune the model parameters to optimize its performance. This can be done through techniques like grid search or random search.
+* **Model Training**: Train a tuned logistic regression model using the training data. Fine-tune the model parameters to optimize its performance. This can be done through techniques like grid search.
 
-Model Evaluation: Evaluate the performance of the tuned logistic regression model using various metrics such as precision, recall, accuracy, ROC-AUC score, and F1 macro score. These metrics provide insights into the model's predictive capabilities and its ability to classify whether the stock value will increase or decrease.
+* **Model Evaluation**: Evaluate the performance of the tuned logistic regression model using various metrics such as precision, recall, accuracy, ROC-AUC score, and F1 macro score. These metrics provide insights into the model's predictive capabilities and its ability to classify whether the stock value will increase or decrease.
 
-Conclusion: Summarize the findings of the project. Highlight the superior performance of the tuned logistic regression model compared to the regular logistic regression model. Emphasize the improvements in precision, recall, accuracy, ROC-AUC score, and F1 macro score achieved by the tuned model. Discuss the importance of considering historical data, market trends, and relevant factors in accurately predicting stock market movements.
+* **Conclusion**: Summarize the findings of the project. Highlight the superior performance of the tuned logistic regression model compared to the regular logistic regression model. Emphasize the improvements in precision, recall, accuracy, ROC-AUC score, and F1 macro score achieved by the tuned model. Discuss the importance of considering historical data, market trends, and relevant factors in accurately predicting stock market movements.
+
+
+By following these steps, I successfully developed a predictive model using Nifty Bank Stock Market data and gained valuable insights for making informed investment decisions in the Nifty Bank Stock Market.
