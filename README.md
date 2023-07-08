@@ -1,5 +1,5 @@
 # Stock-Market-Prediction
-![images](https://github.com/shubham19nijwala/Nifty-Bank-Stock-Market-Prediction/assets/130289158/5597c409-7000-47bf-8ada-ebe482d7bcc6)
+![stocks_sensex_nifty_stockmarkets-770x433](https://github.com/shubham19nijwala/Nifty-Bank-Stock-Market-Prediction/assets/130289158/d9ace0d5-033d-4ddd-8e18-5853ff9afecd)
 
 ## About Dataset
 ### Context
