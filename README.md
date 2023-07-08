@@ -1,4 +1,4 @@
-# Stock-Market-Prediction
+# Nifty-Bank-Stock-Market-Prediction
 ![stocks_sensex_nifty_stockmarkets-770x433](https://github.com/shubham19nijwala/Nifty-Bank-Stock-Market-Prediction/assets/130289158/d9ace0d5-033d-4ddd-8e18-5853ff9afecd)
 
 ## About Dataset
@@ -12,12 +12,17 @@ This dataset has daily information on NIFTY BANK index starting from 01 January 
 
 The file has the following columns
 
-Date - date of observation
-Open - open value of the index on that day
-High - highest value of the index on that day
-Low - lowest value of the index on that day
-Close - closing value of the index on that day
-Volume - volume of transaction
+**Date** - date of observation
+
+**Open** - open value of the index on that day
+
+**High** - highest value of the index on that day
+
+**Low** - lowest value of the index on that day
+
+**Close** - closing value of the index on that day
+
+**Volume** - volume of transaction
 
 ## Steps Involved:
 *  **Data Preparation**: Import the necessary libraries and load the Nifty Bank Stock Market dataset from 2018 to 2021. Perform data cleaning to handle missing values and ensure data consistency.
